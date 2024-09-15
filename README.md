@@ -4,7 +4,7 @@ REAL (Reliable, Efficient, and Autonomous Learning) reading group is a machine l
 
 ### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Regular Meeting.</span>
 
-**Time**: 9:30 am - 10:30 am CDT, every Friday.
+**Time**: 4:00 pm - 5:00 pm CDT, every Friday.
 
 
 Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presentation slides to this GitHub repository; (2) please also **<ins>do not forget</ins>** to forward the papers you are going to represent a week ahead of your presentation.
