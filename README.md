@@ -17,7 +17,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Aug 09, 2024 |   Zeyu Zhang         |    Large Language Model Unlearning | [paper](http://arxiv.org/abs/2310.10683) [slide](./Research_Presentation/08_09_2024_ZeyuZhang_LLMUnlearning.pptx)               |           |
 | Aug 16, 2024 |   Qingcheng Zeng         |    Uncertainty is Fragile: Manipulating Uncertainty in Large Language Models | [paper](https://arxiv.org/abs/2407.11282)               |           |
 | Aug 23, 2024 |   Jifan Zhang         |    Language Models with Conformal Factuality Guarantees | [paper](https://arxiv.org/abs/2402.10978)            |           |
-| Sep 06, 2024 |   Ruiyao Xu         |    Large Language Models can Deliver Accurate and Interpretable Time Series Anomaly Detection | [paper](https://arxiv.org/pdf/2405.15370)            |           |
+| Sep 06, 2024 |   Ruiyao Xu         |    Large Language Models can Deliver Accurate and Interpretable Time Series Anomaly Detection | [paper](https://arxiv.org/pdf/2405.15370)  [slide](./Research_Presentation/paper_presentation_9_6.pptx)          |           |
 | Sep 13, 2024 |   Ziqing Wang         |    BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models | [paper](https://proceedings.mlr.press/v202/li23q/li23q.pdf)  [slide](https://docs.google.com/presentation/d/1bApEC0u6JnJ0AIVqXgjyxL6aV-Ap9_asU6VQCB2b870/edit?usp=sharing)           |          |
 
 
