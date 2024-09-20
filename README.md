@@ -31,3 +31,4 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Aug 23, 2024 |   Ziqing Wang        |    How to read and archive papers with ReadPaper | [link](https://rp.hanijiankang.com/new)             |           |
 | Sep 06, 2024 |   Sunny Li       |    Simple Steps to Better Public Speaking |              |           |
 | Sep 13, 2024 |   Zeyu Zhang       |    Deadline of Conferences | [link](./Open_Talk/09_13_2024_ZeyuZhang_PaperDeadline2025.pptx)             |           |
+| Sep 20, 2024 |   Ruiyao Xu       |    Writing AI Conference Papers | [link](./Open_Talk/open_talk_9_19.pdf)             |           |
