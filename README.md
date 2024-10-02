@@ -9,7 +9,7 @@ REAL (Reliable, Efficient, and Autonomous Learning) is a machine learning paper 
 ## Guidelines for Presenters
 
 1. Upload your presentation slides to this GitHub repository.
-2. Share the papers you plan to present at least one week before your presentation.
+2. Share the papers you plan to present at least two days before your presentation.
 3. For Research Presentations:
    - Share one or two papers that you consider exceptional.
    - The papers can be from various fields related to machine learning.
