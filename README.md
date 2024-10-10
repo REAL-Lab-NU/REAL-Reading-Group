@@ -35,7 +35,7 @@ REAL (Reliable, Efficient, and Autonomous Learning) is a machine learning paper 
 
 | Date | Presenter | Topic | Materials |
 |------|-----------|-------|-----------|
-| Oct 4, 2024 | Sunny Li | InstructGraph: Boosting Large Language Models via Graph-centric Instruction Tuning and Preference Alignment | [Paper](https://arxiv.org/pdf/2402.08785) [Slide](./Research_Presentation/InstructGraph.pptx) |
+| Oct 04, 2024 | Sunny Li | InstructGraph: Boosting Large Language Models via Graph-centric Instruction Tuning and Preference Alignment | [Paper](https://arxiv.org/pdf/2402.08785) [Slide](./Research_Presentation/InstructGraph.pptx) |
 | Sep 20, 2024 | Zeyu Zhang | EFFICIENT MODEL UPDATES FOR APPROXIMATE UNLEARNING OF GRAPH-STRUCTURED DATA | [Paper](https://drive.google.com/file/d/1IdXZxugztHEr4n_cbUN5XJ3Ibd2e8i9t/view) |
 | Sep 13, 2024 | Ziqing Wang | BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models | [Paper](https://proceedings.mlr.press/v202/li23q/li23q.pdf) [Slide](https://docs.google.com/presentation/d/1bApEC0u6JnJ0AIVqXgjyxL6aV-Ap9_asU6VQCB2b870/edit?usp=sharing) |
 | Sep 06, 2024 | Ruiyao Xu | Large Language Models can Deliver Accurate and Interpretable Time Series Anomaly Detection | [Paper](https://arxiv.org/pdf/2405.15370) [Slide](./Research_Presentation/paper_presentation_9_6.pptx) |
@@ -48,6 +48,7 @@ REAL (Reliable, Efficient, and Autonomous Learning) is a machine learning paper 
 
 | Date | Presenter | Topic | Materials |
 |------|-----------|-------|-----------|
+| Oct 04, 2024 | Jifan Zhang | Build your first personal website | [Slide](./Open_Talk/10_04_2024_JifanZhang_Build your first personal website.pptx) |
 | Sep 20, 2024 | Ruiyao Xu | Writing AI Conference Papers | [Slide](./Open_Talk/open_talk_9_19.pdf) |
 | Sep 13, 2024 | Zeyu Zhang | Deadline of Conferences | [Slide](./Open_Talk/09_13_2024_ZeyuZhang_PaperDeadline2025.pptx) |
 | Sep 06, 2024 | Sunny Li | Simple Steps to Better Public Speaking | |
