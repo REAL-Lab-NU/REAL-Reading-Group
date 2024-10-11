@@ -47,6 +47,7 @@ REAL (Reliable, Efficient, and Autonomous Learning) is a machine learning paper 
 
 | Date | Presenter | Topic | Materials |
 |------|-----------|-------|-----------|
+| Oct 11, 2024 | Ziqing Wang | The intro of Weights and Biases | [Slide](./Open_Talk/10_01_2024_ZiqingWang_W&B.pptx) |
 | Oct 04, 2024 | Jifan Zhang | Build your first personal website | [Slide](./Open_Talk/10_04_2024_JifanZhang_Build_your_first_personal_website.pptx) |
 | Sep 20, 2024 | Ruiyao Xu | Writing AI Conference Papers | [Slide](./Open_Talk/open_talk_9_19.pdf) |
 | Sep 13, 2024 | Zeyu Zhang | Deadline of Conferences | [Slide](./Open_Talk/09_13_2024_ZeyuZhang_PaperDeadline2025.pptx) |
