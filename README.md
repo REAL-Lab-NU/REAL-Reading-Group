@@ -27,6 +27,9 @@ REAL (Reliable, Efficient, and Autonomous Learning) is a machine learning paper 
 | Oct 25, 2024 | Chenghong Lin | Ruiyao Xu |
 | Nov 01, 2024 | Ruiyao Xu | Qijie Zhu |
 | Nov 08, 2024 | Ziqing Wang | Chenghong Lin |
+| Nov 15, 2024 | Sunny Li | Jifan Zhang |
+| Nov 22, 2024 | Jifan Zhang | Ziqing Wang |
+| Nov 29, 2024 | Qijie Zhu | Sunny Li |
 
 ## Full Schedule
 
@@ -34,7 +37,8 @@ REAL (Reliable, Efficient, and Autonomous Learning) is a machine learning paper 
 
 | Date | Presenter | Topic | Materials |
 |------|-----------|-------|-----------|
-| Oct 04, 2024 | Sunny Li | InstructGraph: Boosting Large Language Models via Graph-centric Instruction Tuning and Preference Alignment | [Paper](https://arxiv.org/pdf/2402.08785) [Slide](./Research_Presentation/InstructGraph.pptx) |
+| Oct 11, 2024 | Jifan Zhang | Adaptive conformal inference | [Paper](https://arxiv.org/pdf/2402.08785) |
+| Oct 04, 2024 | Sunny Li | InstructGraph: Boosting Large Language Models via Graph-centric Instruction Tuning and Preference Alignment | [Paper](https://arxiv.org/abs/2106.00170) [Slide](./Research_Presentation/InstructGraph.pptx) |
 | Sep 20, 2024 | Zeyu Zhang | EFFICIENT MODEL UPDATES FOR APPROXIMATE UNLEARNING OF GRAPH-STRUCTURED DATA | [Paper](https://drive.google.com/file/d/1IdXZxugztHEr4n_cbUN5XJ3Ibd2e8i9t/view) |
 | Sep 13, 2024 | Ziqing Wang | BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models | [Paper](https://proceedings.mlr.press/v202/li23q/li23q.pdf) [Slide](https://docs.google.com/presentation/d/1bApEC0u6JnJ0AIVqXgjyxL6aV-Ap9_asU6VQCB2b870/edit?usp=sharing) |
 | Sep 06, 2024 | Ruiyao Xu | Large Language Models can Deliver Accurate and Interpretable Time Series Anomaly Detection | [Paper](https://arxiv.org/pdf/2405.15370) [Slide](./Research_Presentation/paper_presentation_9_6.pptx) |
