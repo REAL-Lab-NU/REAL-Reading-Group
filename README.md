@@ -35,7 +35,7 @@ REAL (Reliable, Efficient, and Autonomous Learning) is a machine learning paper 
 
 | Date | Presenter | Topic | Materials |
 |------|-----------|-------|-----------|
-| Oct 18, 2024 | Qijie Zhu | Theoretical Analysis of Weak-to-Strong Generalization | [Paper](https://arxiv.org/abs/2405.16043) [Slide](./Research Presentation/10_18_2024_QijieZhu_Theoretical_Analysis_of_Weak_to_Strong_Generalization.pptx) |
+| Oct 18, 2024 | Qijie Zhu | Theoretical Analysis of Weak-to-Strong Generalization | [Paper](https://arxiv.org/abs/2405.16043) [Slide](./Research Presentation/10_18_2024_QijieZhu_Theoretical_Analysis_of_Weak_to_Strong_Generalization.pdf) |
 | Oct 11, 2024 | Jifan Zhang | Adaptive conformal inference | [Paper](https://arxiv.org/pdf/2402.08785) |
 | Oct 04, 2024 | Sunny Li | InstructGraph: Boosting Large Language Models via Graph-centric Instruction Tuning and Preference Alignment | [Paper](https://arxiv.org/abs/2106.00170) [Slide](./Research_Presentation/InstructGraph.pptx) |
 | Sep 20, 2024 | Zeyu Zhang | EFFICIENT MODEL UPDATES FOR APPROXIMATE UNLEARNING OF GRAPH-STRUCTURED DATA | [Paper](https://drive.google.com/file/d/1IdXZxugztHEr4n_cbUN5XJ3Ibd2e8i9t/view) |
