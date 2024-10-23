@@ -50,7 +50,7 @@ REAL (Reliable, Efficient, and Autonomous Learning) is a machine learning paper 
 
 | Date | Presenter | Topic | Materials |
 |------|-----------|-------|-----------|
-| Oct 25, 2024 | Ruiyao Xu | The Fine Art of Small Talk |  |
+| Oct 25, 2024 | Ruiyao Xu | A Guide to Giving a Short Academic Talk |  |
 | Oct 11, 2024 | Ziqing Wang | The intro of Weights and Biases | [Slide](./Open_Talk/10_01_2024_ZiqingWang_W&B.pptx) |
 | Oct 04, 2024 | Jifan Zhang | Build your first personal website | [Slide](./Open_Talk/10_04_2024_JifanZhang_Build_your_first_personal_website.pptx) |
 | Sep 20, 2024 | Ruiyao Xu | Writing AI Conference Papers | [Slide](./Open_Talk/open_talk_9_19.pdf) |
