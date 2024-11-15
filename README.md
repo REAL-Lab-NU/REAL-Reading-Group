@@ -34,6 +34,7 @@ REAL (Reliable, Efficient, and Autonomous Learning) is a machine learning paper 
 
 | Date | Presenter | Topic | Materials |
 |------|-----------|-------|-----------|
+| Nov 08, 2024 | Ruiyao Xu | Envisioning Outlier Exposure by Large Language Models for Out-of-Distribution Detection |[Slide](./Research_Presentation/11_08_presentation.pptx) |
 | Oct 25, 2024 | Chenghong Lin | Enhancing Multimodal Knowledge Graph Representation Learning through Triple Contrastive Learning | [Paper](https://www.ijcai.org/proceedings/2024/0659.pdf) [Slide](./Research_Presentation/10_25_2024_Chenghong_lin_KG_rep_learning.pdf) |
 | Oct 18, 2024 | Qijie Zhu | Theoretical Analysis of Weak-to-Strong Generalization | [Paper](https://arxiv.org/abs/2405.16043) [Slide](./Research_Presentation/10_18_2024_QijieZhu_Theoretical_Analysis_of_Weak_to_Strong_Generalization.pdf) |
 | Oct 11, 2024 | Jifan Zhang | Adaptive conformal inference | [Paper](https://arxiv.org/pdf/2402.08785) |
@@ -50,7 +51,7 @@ REAL (Reliable, Efficient, and Autonomous Learning) is a machine learning paper 
 
 | Date | Presenter | Topic | Materials |
 |------|-----------|-------|-----------|
-| Oct 25, 2024 | Ruiyao Xu | A Guide to Giving a Short Academic Talk |  |
+| Oct 25, 2024 | Ruiyao Xu | A Guide to Giving a Short Academic Talk | [Slide](./Open_Talk/Academic_Talk.pptx) |
 | Oct 11, 2024 | Ziqing Wang | The intro of Weights and Biases | [Slide](./Open_Talk/10_01_2024_ZiqingWang_W&B.pptx) |
 | Oct 04, 2024 | Jifan Zhang | Build your first personal website | [Slide](./Open_Talk/10_04_2024_JifanZhang_Build_your_first_personal_website.pptx) |
 | Sep 20, 2024 | Ruiyao Xu | Writing AI Conference Papers | [Slide](./Open_Talk/open_talk_9_19.pdf) |
