@@ -35,7 +35,7 @@ REAL (Reliable, Efficient, and Autonomous Learning) is a machine learning paper 
 | Date | Presenter | Topic | Materials |
 |------|-----------|-------|-----------|
 | Nov 22, 2024 | Ziqing Wang | DIGRESS: DISCRETE DENOISING DIFFUSION FOR GRAPH GENERATION | [Paper](https://arxiv.org/pdf/2209.14734)|
-| Nov 15, 2024 | Sunny Li | Reflexion: Language Agents with Verbal Reinforcement Learning | [Paper]([https://arxiv.org/pdf/2209.14734](https://proceedings.neurips.cc/paper_files/paper/2023/file/1b44b878bb782e6954cd888628510e90-Paper-Conference.pdf))|
+| Nov 15, 2024 | Sunny Li | Reflexion: Language Agents with Verbal Reinforcement Learning | [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/1b44b878bb782e6954cd888628510e90-Paper-Conference.pdf)|
 | Nov 08, 2024 | Ruiyao Xu | Envisioning Outlier Exposure by Large Language Models for Out-of-Distribution Detection |[Slide](./Research_Presentation/11_08_presentation.pptx) |
 | Oct 25, 2024 | Chenghong Lin | Enhancing Multimodal Knowledge Graph Representation Learning through Triple Contrastive Learning | [Paper](https://www.ijcai.org/proceedings/2024/0659.pdf) [Slide](./Research_Presentation/10_25_2024_Chenghong_lin_KG_rep_learning.pdf) |
 | Oct 18, 2024 | Qijie Zhu | Theoretical Analysis of Weak-to-Strong Generalization | [Paper](https://arxiv.org/abs/2405.16043) [Slide](./Research_Presentation/10_18_2024_QijieZhu_Theoretical_Analysis_of_Weak_to_Strong_Generalization.pdf) |
