@@ -23,8 +23,8 @@ REAL (Reliable, Efficient, and Autonomous Learning) is a machine learning paper 
 | Date | Research Presentation | Open Talk |
 |------|----------------------|-----------|
 | Dec 05, 2024 | Jifan Zhang | Ziqing Wang |
-| Dec 12, 2024 | Qijie Zhu | Sunny Li |
-| Dec 19, 2024 | Chenghong Lin | Ruiyao Xu |
+| Dec 12, 2024 | Qijie Zhu | Ruiyao Xu |
+| Dec 19, 2024 | Qingcheng Zeng | Sunny Li |
 | Dec 26, 2024 | Ruiyao Xu | Qijie Zhu |
 
 
@@ -53,7 +53,7 @@ REAL (Reliable, Efficient, and Autonomous Learning) is a machine learning paper 
 
 | Date | Presenter | Topic | Materials |
 |------|-----------|-------|-----------|
-| Nov 12, 2024 | Ruiyao Xu | Paper Management with Paperlib | |
+| Dec 12, 2024 | Ruiyao Xu | Paper Management with Paperlib | |
 | Nov 22, 2024 | Jifan Zhang | Think outside of the box: interesting brain teasers | |
 | Nov 15, 2024 | Chenghong Lin | How to form good habits? | |
 | Nov 08, 2024 | Qijie Zhu | How to read a paper? | |
