@@ -22,10 +22,8 @@ REAL (Reliable, Efficient, and Autonomous Learning) is a machine learning paper 
 
 | Date | Research Presentation | Open Talk |
 |------|----------------------|-----------|
-| Dec 05, 2024 | Jifan Zhang | Ziqing Wang |
-| Dec 12, 2024 | Qijie Zhu | Ruiyao Xu |
-| Dec 19, 2024 | Qingcheng Zeng | Sunny Li |
-| Dec 26, 2024 | Ruiyao Xu | Qijie Zhu |
+| Dec 19, 2024 | Qingcheng Zeng | Ziqing Wang |
+| Jan 03, 2024 | Ruiyao Xu | Qijie Zhu |
 
 
 ## Full Schedule
@@ -34,6 +32,8 @@ REAL (Reliable, Efficient, and Autonomous Learning) is a machine learning paper 
 
 | Date | Presenter | Topic | Materials |
 |------|-----------|-------|-----------|
+| Dec 12, 2024 | Qijie Zhu | Score approximation, estimation and distribution recovery of diffusion models on low-dimensional data | [Paper](https://proceedings.mlr.press/v202/chen23o/chen23o.pdf)|
+| Dec 05, 2024 | Jifan Zhang | Conformal prediction for multi-dimensional time series by ellipsoidal sets | [Paper](https://arxiv.org/pdf/2209.14734](https://arxiv.org/abs/2403.03850)](https://arxiv.org/abs/2403.03850))|
 | Nov 22, 2024 | Ziqing Wang | DIGRESS: DISCRETE DENOISING DIFFUSION FOR GRAPH GENERATION | [Paper](https://arxiv.org/pdf/2209.14734)|
 | Nov 15, 2024 | Sunny Li | Reflexion: Language Agents with Verbal Reinforcement Learning | [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/1b44b878bb782e6954cd888628510e90-Paper-Conference.pdf)|
 | Nov 08, 2024 | Ruiyao Xu | Envisioning Outlier Exposure by Large Language Models for Out-of-Distribution Detection |[Slide](./Research_Presentation/11_08_presentation.pptx) |
@@ -54,6 +54,7 @@ REAL (Reliable, Efficient, and Autonomous Learning) is a machine learning paper 
 | Date | Presenter | Topic | Materials |
 |------|-----------|-------|-----------|
 | Dec 12, 2024 | Ruiyao Xu | Paper Management with Paperlib | |
+| Dec 05, 2024 | Ruiyao Xu | Introduction of Notion | |
 | Nov 22, 2024 | Jifan Zhang | Think outside of the box: interesting brain teasers | |
 | Nov 15, 2024 | Chenghong Lin | How to form good habits? | |
 | Nov 08, 2024 | Qijie Zhu | How to read a paper? | |
