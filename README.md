@@ -37,7 +37,7 @@ REAL (Reliable, Efficient, and Autonomous Learning) is a machine learning paper 
 | Date | Presenter | Topic | Materials |
 |------|-----------|-------|-----------|
 | Jan 10, 2025 | Ziqing Wang | Direct Preference Optimization: Your Language Model is Secretly a Reward Model | [Paper](https://arxiv.org/pdf/2305.18290)|
-| Jan 03, 2025 | Qingcheng Zeng | (AutoPSV: Automated Process-Supervised Verifier | [Paper](https://openreview.net/pdf?id=eOAPWWOGs9)|
+| Jan 03, 2025 | Qingcheng Zeng | AutoPSV: Automated Process-Supervised Verifier | [Paper](https://openreview.net/pdf?id=eOAPWWOGs9)|
 | Dec 12, 2024 | Qijie Zhu | Score approximation, estimation and distribution recovery of diffusion models on low-dimensional data | [Paper](https://proceedings.mlr.press/v202/chen23o/chen23o.pdf)|
 | Dec 05, 2024 | Jifan Zhang | Conformal prediction for multi-dimensional time series by ellipsoidal sets | [Paper](https://arxiv.org/pdf/2209.14734](https://arxiv.org/abs/2403.03850)](https://arxiv.org/abs/2403.03850))|
 | Nov 22, 2024 | Ziqing Wang | DIGRESS: DISCRETE DENOISING DIFFUSION FOR GRAPH GENERATION | [Paper](https://arxiv.org/pdf/2209.14734)|
