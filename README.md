@@ -35,6 +35,7 @@ REAL (Reliable, Efficient, and Autonomous Learning) is a machine learning paper 
 
 | Date | Presenter | Topic | Materials |
 |------|-----------|-------|-----------|
+| Jan 17, 2025 | Ruiyao Xu | Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study | [Paper](https://arxiv.org/abs/2404.10719)|
 | Jan 10, 2025 | Ziqing Wang | Direct Preference Optimization: Your Language Model is Secretly a Reward Model | [Paper](https://arxiv.org/pdf/2305.18290)|
 | Jan 03, 2025 | Qingcheng Zeng | AutoPSV: Automated Process-Supervised Verifier | [Paper](https://openreview.net/pdf?id=eOAPWWOGs9)|
 | Dec 12, 2024 | Qijie Zhu | Score approximation, estimation and distribution recovery of diffusion models on low-dimensional data | [Paper](https://proceedings.mlr.press/v202/chen23o/chen23o.pdf)|
