@@ -22,7 +22,6 @@ REAL (Reliable, Efficient, and Autonomous Learning) is a machine learning paper 
 
 | Date | Research Presentation | Open Talk |
 |------|----------------------|-----------|
-| Jan 17, 2025 | Ruiyao Xu | Qingcheng Zeng |
 | Jan 24, 2025 | Chenghong Lin | Ruiyao Xu |
 | Jan 31, 2025 | Qingcheng Zeng | Ziqing Wang |
 | Feb 07, 2025 | Ziqing Wang | Chenghong Lin |
