@@ -29,6 +29,9 @@ REAL (Reliable, Efficient, and Autonomous Learning) is a machine learning paper 
 | Feb 21, 2025 | Ruiyao Xu | Jifan Zhang |
 | Feb 28, 2025 | Qingcheng Zeng | Ruiyao Xu |
 | March 07, 2025 | Ziqing Wang | Ziqing Wang |
+| March 14, 2025 | Jifan Zhang | Qingcheng Zeng |
+| March 21, 2025 | Ruiyao Xu | Jifan Zhang |
+| March 28, 2025 | Qingcheng Zeng | Ruiyao Xu |
 
 
 ## Full Schedule
@@ -37,6 +40,10 @@ REAL (Reliable, Efficient, and Autonomous Learning) is a machine learning paper 
 
 | Date | Presenter | Topic | Materials |
 |------|-----------|-------|-----------|
+| Feb 14, 2025 | Jifan Zhang | Time-LLM: Time Series Forecasting by Reprogramming Large Language Models | [Paper](https://neurips.cc/virtual/2024/poster/95829)|
+| Feb 07, 2025 | Ziqing Wang | DeepSeek-R1 | [Paper](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf)|
+| Jan 31, 2025 |Qingcheng Zeng | Promptriever: Instruction-Trained Retrievers Can Be Prompted Like Language Models | [Paper](https://arxiv.org/pdf/2409.11136)|
+| Jan 24, 2025 | Chenghong Lin | HEALNet: Multimodal Fusion for Heterogeneous Biomedical Data | [Paper](https://neurips.cc/virtual/2024/poster/95829)|
 | Jan 17, 2025 | Ruiyao Xu | Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study | [Paper](https://arxiv.org/abs/2404.10719)|
 | Jan 10, 2025 | Ziqing Wang | Direct Preference Optimization: Your Language Model is Secretly a Reward Model | [Paper](https://arxiv.org/pdf/2305.18290)|
 | Jan 03, 2025 | Qingcheng Zeng | AutoPSV: Automated Process-Supervised Verifier | [Paper](https://openreview.net/pdf?id=eOAPWWOGs9)|
@@ -61,6 +68,11 @@ REAL (Reliable, Efficient, and Autonomous Learning) is a machine learning paper 
 
 | Date | Presenter | Topic | Materials |
 |------|-----------|-------|-----------|
+| Feb 14, 2025 | Qingcheng Zeng | Internship Search||
+| Feb 07, 2025 | Chenghong Lin | How to write a paper?||
+| Jan 31, 2025 | Ziqing Wang | How to do a literature review?||
+| Jan 24, 2025 | Ruiyao Xu | Obisdian||
+| Jan 17, 2025 | Qingcheng Zeng | Scholar Inbox||
 | Jan 10, 2025 | Sunny Li | Quizlet: A Tool to Memorization||
 | Jan 03, 2025 | Qijie Zhu | How to write a good introduction?||
 | Dec 19, 2024 | Ziqing Wang | Tutorial of Sweeps | |
